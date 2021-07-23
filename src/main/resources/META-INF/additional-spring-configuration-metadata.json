@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "website.status.off",
+  "type": "java.lang.String",
+  "description": "A description for 'website.status.off'"
+}]}
